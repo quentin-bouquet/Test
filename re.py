@@ -1,2 +1,3 @@
-print'Hello-World'
-print"ceci est un test"
+print('Hello-World')
+print("ceci est un test")
+
